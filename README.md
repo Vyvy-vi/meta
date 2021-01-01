@@ -25,7 +25,9 @@ Questions and suggestions surrounding our open source cult.
 
 <table>
   <tr>
-    <td align="center"><a href="https://raw.githubusercontent.com/Vyvy-vi/meta/docs/readme-design/.github/images/reagurk.png"><img src="./.github/images/reagurk.png" height="300px "width="500px;" alt="Reagurk repository image"/><br /><sub><a href="https://github.com/gurkult/reagurk">Reagurk</a></sub></a></td>
+    <!--TODO: Link the raw image from the default repo-->
+    <td align="center"><a href="https://raw.githubusercontent.com/Vyvy-vi/meta/docs/readme-design/.github/images/reagurk.png"><img src="./.github/images/reagurk.png" height="300px "width="500px;" alt="Reagurk repository image"/><br /><sub><a href="https://github.com/gurkult/reagurk">Reagurk</a><br /><b>Our community website</b></sub></a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/Vyvy-vi/meta/docs/readme-design/.github/images/gurkbot.png"><img src="./.github/images/gurkbot.png" height="300px "width="500px;" alt="Gurkbot repository image"/><br /><sub><a href="https://github.com/gurkult/gurkbot">Gurkbot</a><br /><b>A discord bot for managing our discord server</b></sub></a></td>   
   </tr>
 </table>
 
