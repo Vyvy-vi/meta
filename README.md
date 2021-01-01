@@ -25,7 +25,7 @@ Questions and suggestions surrounding our open source cult.
 
 <table>
   <tr>
-    <td align="center"><a href="https://raw.githubusercontent.com/Vyvy-vi/meta/docs/readme-design/.github/images/reagurk.png"><img src="https://github.com/Vyvy-vi/meta/blob/docs/readme-design/.github/images/reagurk.png" height="300px "width="500px;" alt="Reagurk repository image"/><br /><sub><a href="https://github.com/gurkult/reagurk">Reagurk</a></sub></a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/Vyvy-vi/meta/docs/readme-design/.github/images/reagurk.png"><img src="./.github/images/reagurk.png" height="300px "width="500px;" alt="Reagurk repository image"/><br /><sub><a href="https://github.com/gurkult/reagurk">Reagurk</a></sub></a></td>
   </tr>
 </table>
 
