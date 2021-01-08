@@ -1,4 +1,4 @@
-![Org Name](.github/images/logo.svg)
+![Org Name](.github/images/logo.png)
 
 
 ## About us:
