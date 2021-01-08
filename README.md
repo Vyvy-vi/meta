@@ -1,8 +1,18 @@
-![Org Name](.github/images/title.svg)
+![Org Name](.github/images/logo.svg)
+
+
+## About us:
+<p align="center">
+  We're an open source community, bringing beginners and experienced developer alike together in pursuing rewarding projects, for experience and finding like-minded  people
+</p>
+
+
+
+
 
 <!--PLANS:START-->
-- [ ] Title
-- [ ] Description
+- [x] Title
+- [x] Description
 - [ ] Info
 - [x] Projects
 - [ ] Actions
