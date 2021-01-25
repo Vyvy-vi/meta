@@ -13,11 +13,11 @@
 <!--PLANS:START-->
 - [x] Title
 - [x] Description
-- [ ] Info
+- [x] Info
 - [x] Projects
 - [ ] Actions
-- [ ] Images
-- [ ] CODE OF CONDUCT and Guidelines(**TO BE DONE BY VESTER*)
+- [x] Images
+- [x] CODE OF CONDUCT and Guidelines(**TO BE DONE BY VESTER*)
 - [ ] Why is OSS Amazing?
 - [ ] Our Aim
 - [ ] Links to Website, discord, etc.
