@@ -41,3 +41,7 @@
 </table>
 
 
+
+## Socials:
+[discord server]()
+[website]()
